@@ -1,5 +1,5 @@
 {
-  "name": "intis-sdk-js",
+  "name": "components-intisclient",
   "version": "1.0.0",
   "description": "Javascript SDK for operating with Intis telecom API and sending SMS",
   "main": "client.js",
