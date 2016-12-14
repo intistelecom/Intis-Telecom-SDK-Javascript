@@ -1,0 +1,25 @@
+{
+  "name": "intis-sdk-js",
+  "authors": [
+    "Konstantin Shlyk <konstantin@shlyk.org>"
+  ],
+  "description": "Javascript SDK for operating with Intis telecom API and sending SMS",
+  "main": "dist/intis-client.min.js",
+  "moduleType": [],
+  "keywords": [
+    "sms",
+    "intis"
+  ],
+  "license": "MIT",
+  "homepage": "https://www.intistele.com/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "js-md5": "md5#~0.4.1"
+  }
+}

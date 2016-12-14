@@ -1,0 +1,18 @@
+{
+  "name": "intis-sdk-js",
+  "version": "1.0.0",
+  "description": "Javascript SDK for operating with Intis telecom API and sending SMS",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sms",
+    "intis"
+  ],
+  "author": "konstantin@shlyk.org",
+  "license": "MIT",
+  "dependencies": {
+    "md5": "^2.2.1"
+  }
+}
